@@ -22,8 +22,8 @@
 - Import the sql file in the /sql/ folder to your database. This will allow you to change who can access the menu and what options, your log system stored in the database and all player bans stored in the database.
 - To give yourself admin > navigate to your database, click SQL at the top and copy and paste the following into the empty box then press Go
 
-INSERT INTO `asgard_admin` (`id`, `cid`, `favorite`) VALUES
-	(1, 'CITIZENID', '[{"name":"changemodel"},{"name":"ban"},{"name":"bring"},{"name":"csay"},{"name":"fixvehicle"},{"name":"givecash"},{"name":"godmode"},{"name":"noclip"},{"name":"clothes"}]');
+```INSERT INTO `asgard_admin` (`id`, `cid`, `favorite`) VALUES
+	(1, 'CITIZENID', '[{"name":"changemodel"},{"name":"ban"},{"name":"bring"},{"name":"csay"},{"name":"fixvehicle"},{"name":"givecash"},{"name":"godmode"},{"name":"noclip"},{"name":"clothes"}]');```
 
 - Change CITIZENID to your citizen ID
 - To make extra admins, follow the same process, change the 1 at the start of the SQL to 2, 3, 4 etc for whichever number you are adding. A unique ID is required each time
