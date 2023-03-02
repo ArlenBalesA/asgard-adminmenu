@@ -27,7 +27,7 @@
 
 - Change CITIZENID to your citizen ID
 - To make extra admins, follow the same process, change the 1 at the start of the SQL to 2, 3, 4 etc for whichever number you are adding. A unique ID is required each time
-- You can remove certaiun options if you want an admin with restricted access
+- You can remove certain options if you want an admin with restricted access
 
 # Features
  - Clean minimalist UI, similar to nopixel style
