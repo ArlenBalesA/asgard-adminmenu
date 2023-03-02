@@ -6,7 +6,7 @@
 - This admin menu is brand new and still being worked on, any bugs will be fixed quickly and new features will be rolled out
 - Join our discord for any support you need and to keep an eye on updates
 
-#Previews
+# Previews
 
 [Streamable1](https://streamable.com/9wdr9u)
 
